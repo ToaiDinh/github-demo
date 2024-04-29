@@ -1,1 +1,10 @@
 Test Git quick start demo
+
+This is test for comparing working with staging
+AAAAAAAAAAAAAAA
+
+This is test for comparing working with git
+BBBBBBBBBBBBBBB
+
+This is test for comparing staging with git
+CCCCCCCCCCCCCCC
